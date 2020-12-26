@@ -1,0 +1,46 @@
+body{
+	background-color:powderblue;
+}
+a:link
+{
+	color:green;
+	background-color:transparent;
+	text-decoration: none;
+}
+a:visited
+{
+	color:violet;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover
+{
+	color:red;
+	background-color: turquoise
+	text-decoration: none;
+}
+a:active{
+	color: yellow
+	background-color:transparent
+	text-decoration:none;
+}
+h1
+{
+	font-family: 'Dancing Script', cursive;
+	font-size: 40px
+}
+h2
+{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 25px
+}
+h3
+{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 25px
+}
+h4
+{
+	font-family: 'Frijole', cursive;
+	font-size: 30px
+}
